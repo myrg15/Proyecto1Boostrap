@@ -1,0 +1,82 @@
+    body {
+    margin: 0%;
+    padding: 0%;
+    font-family:'Courier New', Courier, monospace
+  }
+  
+  /*.container-fluid{
+  margin-top:em;
+  }*/
+  
+  #header{
+    background-color: white;
+    height: 10em;
+    
+  }
+
+  #header2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: x-large;
+    
+  }
+
+  #text-my-color{
+    color: #090909;
+    text-decoration: none;
+    padding: 2em;  
+  }
+
+  #principal{
+    justify-content:center;
+  }
+  
+  #footer{
+    background-color: black;
+    height: 20em;
+    align-items:center;
+  }
+
+  #conta-hora{
+    color: white;
+  }
+
+  #reservas{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: x-large;
+    border: 0.1em solid black;
+    border-radius: 1em;
+    align-items: center;
+    
+  }
+#espacio{
+  height: 1em;
+}
+  
+  #separadorFooter{
+    height: 4em;
+    border-radius: 0.3em;
+    background-color: burlywood;
+    justify-content: center;
+    font-size:xx-large;
+    align-items: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+  #tresUltimasImag{
+    align-items: center;
+
+  }
+
+  #relleno2{
+    background-color: white;
+    height: 3em;
+  }
+
+  #relleno{
+    background-color:burlywood;
+    align-items: center;
+    justify-content: center;
+    height: 3em;
+    font-size:xx-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
