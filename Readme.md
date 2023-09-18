@@ -2,8 +2,9 @@
 ## Restaurante Japanese Food
 ---
 ##Contenido
-1. Vista principal (Home)
-        Bienvenida
+1. Vista principal
+        Bienvenidos
+        Carta
         Razón restaurante
         Enfoque
         Platos de la casa
