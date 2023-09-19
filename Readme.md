@@ -51,6 +51,9 @@ se ha utilizado licencia gratuita para todo el desarrollo web.
 ##Agradecimientos: 
 En primer lugar agradecer a los compañeros que de alguna forma hacen que el aprendizaje sea más productivo con todas sus participaciones relacionadas a temas relevantes, así como también a nuestros profesores, sin dejar atrás la plataforma slack que forma parte de nuestro día a ida, señalando en gran parte la existencia de las librerías de stack over flow, bootstrap@5, Chat de Bing, vídeos y tutoriales, a todas aquellas herramientas que nos acercan más a entender este maravilloso mundo de la programación.
 
+###GitHub Pages
+https://myrg15.github.io/
+
 ![Alt text](logoGeekHub.jpg)
 
     
