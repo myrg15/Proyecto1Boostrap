@@ -40,6 +40,10 @@
     color: white;
   }
 
+  .mb-3{
+    font-size: x-large;
+  }
+
   #reservas{
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: x-large;
