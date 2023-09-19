@@ -32,7 +32,7 @@
   
   #footer{
     background-color: black;
-    height: 20em;
+    height: 15em;
     align-items:center;
   }
 
@@ -49,18 +49,27 @@
     
   }
 #espacio{
-  height: 1em;
+  height: 0.5em;
 }
   
   #separadorFooter{
-    height: 0.5em;
+    height: 0.8em;
     background-color:aliceblue;
     justify-content: center;
 }
 
-  #tresUltimasImag{
+#textoCard{
+font-style: oblique;
+font-size: large ;
+}
+
+#tresUltimasImag{
     align-items: center;
 
+  }
+
+.carousel-caption{
+font-size: xx-large ;
   }
 
   #relleno2{
